@@ -134,3 +134,7 @@ We welcome contributions!
 ## 📱 App Preview
 
 ![LYF Mail App Preview](assets/seo/screenshot-lyfmail-app.png)
+
+
+**Maintained by [LYF Mail](https://github.com/lyfmail-official)** · 
+Founded by [Ajay Kumar Chaudhary](https://github.com/lyfmail) 
