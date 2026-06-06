@@ -66,8 +66,8 @@ app.lyfmail.com/
 
 📦 Installation (For Developers)
 1. Clone the Repository
-git clone https://github.com/lyfmail-official/lyfmail-pwa.git
-cd lyfmail-pwa
+git clone https://github.com/lyfmail-official/lyfmail.git
+cd lyfmail
 2. No Build Tools Required
 This PWA does not require npm, composer, bundlers, or frameworks.
 It works on any Linux server with:
