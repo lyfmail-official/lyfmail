@@ -105,9 +105,11 @@ app.lyfmail.com/
     • Web App Manifest (served via PHP).
 
 📦 Installation (For Developers)
+
 1. Clone the Repository
 
 git clone https://github.com/lyfmail-official/lyfmail.git
+
 cd lyfmail
 
 2. No Build Tools Required
@@ -123,9 +125,13 @@ It works on any Linux server with:
 Upload all files to your hosting:
 
 public_html/
+
 or
+
 your-subdomain/
+
 or
+
 app.domain.com/
 
 4. Ensure HTTPS is Active
