@@ -1,4 +1,4 @@
-LYF Mail – PWA (Progressive Web App)
+**[LYF Mail](https://lyfmail.com)** – PWA (Progressive Web App)
 
 The official open-source Progressive Web App for LYF Mail, designed to deliver a fast, reliable, mobile-first email experience across all devices.
 
